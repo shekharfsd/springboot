@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Test Git Quick Start demo to demo
+=======
+Test Git Quick Start demo & demo & again demo
+demo1
+>>>>>>> master
